@@ -50,7 +50,7 @@ git clone https://github.com/aabhii-0202/Natours.git
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd Natours
 npm install
 ```
 
