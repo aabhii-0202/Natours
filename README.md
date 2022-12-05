@@ -36,7 +36,7 @@ sudo apt-get install git -y
 
 Just to verify if system has git installed or not, please run below command in terminal:
 ```bash
-git — version
+git --version
 ```
 
 This command will print the git version in the terminal.
@@ -44,7 +44,7 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+git clone https://github.com/aabhii-0202/Natours.git
 ```
 
 Get inside the directory and Install Packages
