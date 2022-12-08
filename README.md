@@ -62,3 +62,9 @@ To start the application, run the below command in the terminal:
 ```bash
 npm start
 ```
+## Images
+
+<img src="https://user-images.githubusercontent.com/67586389/206456275-4eafbee1-d8c3-44a9-b94b-18145c9333b2.png" height="400"></img>
+<img src="https://user-images.githubusercontent.com/67586389/206456284-e5870838-9bdb-40c0-b122-3bdaf18026ec.png" height="400"></img>
+<img src="https://user-images.githubusercontent.com/67586389/206456285-59e5e15f-876f-45bc-b700-f0347abd3992.png" height="400"></img>
+<img src="https://user-images.githubusercontent.com/67586389/206456287-b7dc2f2c-7709-4762-8608-8a76b2da4299.png" height="400"></img>
