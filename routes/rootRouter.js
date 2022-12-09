@@ -9,7 +9,7 @@ router.route('/').get(
     res.status(200).json({
       status: 'success',
       data: {
-        message: 'Server running successful'
+        message: 'Welcome to Abhishek Kumar Sings Website. Production is in process will be live soon......'
       }
     });
   })
